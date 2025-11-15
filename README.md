@@ -42,5 +42,9 @@ dkonAuth.login(username: "yourUsername", password: "yourPassword") { result in
     }
 }
 
+```
 
+## Support 
+
+Web: https://DKon.app/dev
 
